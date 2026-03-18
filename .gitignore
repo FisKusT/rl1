@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testing & Quality
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.flake8_cache/
+
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.pdf
+*.gz
+*.thm
+*.bbl
+*.blg
+
+# Project specifics
+.DS_Store
+.vscode/
+.idea/
+config/settings.json.local

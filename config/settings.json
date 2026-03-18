@@ -1,0 +1,39 @@
+{
+    "window": {
+        "title": "Python GUI Calculator",
+        "width": 400,
+        "height": 500,
+        "resizable": false
+    },
+    "display": {
+        "font": ["Arial", 24],
+        "bg": "#f0f0f0",
+        "fg": "#000000",
+        "max_chars": 15
+    },
+    "buttons": {
+        "numbers": {
+            "bg": "#e1e1e1",
+            "fg": "#000000",
+            "hover": "#d0d0d0"
+        },
+        "operators": {
+            "bg": "#ff9500",
+            "fg": "#ffffff",
+            "hover": "#e08400"
+        },
+        "actions": {
+            "bg": "#a5a5a5",
+            "fg": "#000000",
+            "hover": "#909090"
+        },
+        "equals": {
+            "bg": "#ff9500",
+            "fg": "#ffffff",
+            "hover": "#e08400"
+        }
+    },
+    "logic": {
+        "precision": 10
+    }
+}
