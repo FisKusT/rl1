@@ -1,5 +1,5 @@
 # Python GUI Calculator - Clean Architecture Implementation
-
+# TEST CHANGE
 ## a. Objective
 The goal of this project is to build a robust, desktop-based Graphical User Interface (GUI) calculator using Python. It demonstrates strict software engineering standards, including:
 * **Clean Architecture:** Complete isolation between core math logic, SDK, and UI.
